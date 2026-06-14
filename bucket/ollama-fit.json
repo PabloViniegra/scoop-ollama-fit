@@ -6,7 +6,9 @@
     "url": "https://github.com/PabloViniegra/tui-ollama-go/releases/download/v0.2.1/tui-ollama-go_0.2.1_windows_amd64.zip",
     "hash": "PLACEHOLDER_UPDATE_AFTER_FIRST_RELEASE",
     "bin": "ollama-fit.exe",
-    "checkver": "github",
+    "checkver": {
+        "github": "PabloViniegra/tui-ollama-go"
+    },
     "autoupdate": {
         "url": "https://github.com/PabloViniegra/tui-ollama-go/releases/download/v$version/tui-ollama-go_$version_windows_amd64.zip"
     }
