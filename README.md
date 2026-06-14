@@ -5,8 +5,8 @@
 ## Install
 
 ```powershell
-scoop bucket add PabloViniegra/scoop-ollama-fit
-scoop install ollama-fit
+scoop bucket add scoop-ollama-fit https://github.com/PabloViniegra/scoop-ollama-fit.git
+scoop install scoop-ollama-fit/ollama-fit
 ```
 
 ## Usage
