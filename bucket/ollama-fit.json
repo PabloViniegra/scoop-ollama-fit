@@ -1,10 +1,10 @@
 {
-    "version": "0.2.1",
+    "version": "0.3.0",
     "description": "CLI to check if a model fits your hardware",
     "homepage": "https://github.com/PabloViniegra/tui-ollama-go",
     "license": "MIT",
-    "url": "https://github.com/PabloViniegra/tui-ollama-go/releases/download/v0.2.1/tui-ollama-go_0.2.1_windows_amd64.zip",
-    "hash": "PLACEHOLDER_UPDATE_AFTER_FIRST_RELEASE",
+    "url": "https://github.com/PabloViniegra/tui-ollama-go/releases/download/v0.3.0/tui-ollama-go_0.3.0_windows_amd64.zip",
+    "hash": "fd09470df231cba81ad77819b5b0615c450a95ab3f3def2eb018d1ee1fcb10e9",
     "bin": "ollama-fit.exe",
     "checkver": {
         "github": "PabloViniegra/tui-ollama-go"
